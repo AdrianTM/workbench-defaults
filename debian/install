@@ -4,3 +4,6 @@ desktop_files/workbench-tools.desktop etc/skel/.config/autostart
 workbench-tools.list	etc/custom-toolbox
 wallpaper/*		usr/local/share/backgrounds/MX16/wallpaper
 lightdm/*		usr/local/share/backgrounds/MX16/lightdm
+grub/*			usr/local/share/backgrounds/MX16/grub
+defaults/lightdm-gtk-greeter.conf etc/lightdm
+defaults/grub		etc/default
