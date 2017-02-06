@@ -1,0 +1,3 @@
+desktop_files/* 	usr/share/applications/workbench
+desktop_files/workbench-tools.desktop etc/skel/.custom/autostart
+workbench-tools.list	etc/custom-toolbox

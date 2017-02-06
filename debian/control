@@ -1,0 +1,13 @@
+Source: workbench-defaults
+Section: admin
+Priority: optional
+Maintainer: Adrian <adrian@mxlinux.org>
+Build-Depends: debhelper (>=7.0.50~), custom-toolbox
+Standards-Version: 3.9.5
+Vcs-Git: git://github.com/AdrianTM/workbench-defaults
+
+Package: workbench-defaults
+Architecture: all
+Description: Defaults settings for MX Workbench respin
+ workbench-defaults contains files used by MX Workbench respin.
+ These files are used to display items in the Workbench Tools Launcher
