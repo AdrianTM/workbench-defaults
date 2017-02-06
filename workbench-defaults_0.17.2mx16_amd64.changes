@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Sun, 05 Feb 2017 16:39:00 -0500
+Source: workbench-defaults
+Binary: workbench-defaults
+Architecture: source all
+Version: 0.17.2mx16
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ workbench-defaults - Defaults settings for MX Workbench respin
+Changes:
+ workbench-defaults (0.17.2mx16) mx; urgency=medium
+ .
+   * Initial package
+Checksums-Sha1:
+ 995fb1d859080f8a2e7fda16456396d55e30ae17 1184 workbench-defaults_0.17.2mx16.dsc
+ b9bebeb30fbb8017a8f577d981c6f9bd7781436a 820572 workbench-defaults_0.17.2mx16.tar.xz
+ c57040724fe43bf086d747426b75225d56572c75 796634 workbench-defaults_0.17.2mx16_all.deb
+Checksums-Sha256:
+ ca04428b700aba79c7b4efd78db0b0b5972596796e2ed1c8bf008895643d12da 1184 workbench-defaults_0.17.2mx16.dsc
+ 9b5a9d8f8bd90585353ca8bd91d9ecb85e892b0c51f6a3e9d3d511e1626f282c 820572 workbench-defaults_0.17.2mx16.tar.xz
+ 80af114f059a6c3009de31fcf788ffed87d3f4012922862b052c6a1a87efe089 796634 workbench-defaults_0.17.2mx16_all.deb
+Files:
+ b08232633dfa61b0d30205631ce16349 1184 admin optional workbench-defaults_0.17.2mx16.dsc
+ 758745f586b7410d69e729a6c0165437 820572 admin optional workbench-defaults_0.17.2mx16.tar.xz
+ 88dfad6bf0d82bb010df5cc5b669f4bb 796634 admin optional workbench-defaults_0.17.2mx16_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJYmLbvAAoJEHCTjHgGee6Y740IAIu/iSnC5IUfFflLJAE+87Hg
+kU+SOy4vAzREwTwJqIZA9ZUIE+RdBOOVLx/QQnPnndRo3Xso4FNt1D+DNxzb9Xg5
+QQcnwSKCvLbsJXB2KveJ+rXMLMIH9n2YP1qQ36hW889UN/Y+kEHZAC7cQjcM/LpX
+tQBtw7+04JeLcp3likx0B+4LhXUbgxphL7kkXhtclECkMVVi5OdS+BFeYWcHH+86
+Dm8s1/8YDtdJivt8u8ExxkD//Y5Vp/0lr1jSRCXiiNj0vh3oILuPhGWDmu9BtivO
+Kj+/UPcx1oiRlHihqnipNzkrweRL8SxeDLyuG+qlnZmeRJRnCnP6wVZNBMY0frs=
+=bzwK
+-----END PGP SIGNATURE-----
