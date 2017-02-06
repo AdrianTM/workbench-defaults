@@ -1,5 +1,5 @@
 desktop_files/* 	usr/share/applications/workbench
-desktop_files/workbench-tools.desktop etc/skel/.custom/autostart
+desktop_files/workbench-tools.desktop etc/skel/.config/autostart
 workbench-tools.list	etc/custom-toolbox
 wallpapers/*		usr/local/share/backgrounds/MX16/wallpaper
 scripts/*		usr/share/applications/workbench/scripts
