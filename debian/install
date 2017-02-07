@@ -6,4 +6,4 @@ wallpaper/*		usr/local/share/backgrounds/MX16/wallpaper
 lightdm/*		usr/local/share/backgrounds/MX16/lightdm
 grub/*			usr/local/share/backgrounds/MX16/grub
 defaults/lightdm-gtk-greeter.conf etc/lightdm
-defaults/grub		etc/default
+defaults/grub		usr/local/share/live-files/general-files/etc/default

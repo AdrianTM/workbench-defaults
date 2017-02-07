@@ -6,5 +6,5 @@ Comment=securely erase disks
 Exec=su-to-root -X -c "x-terminal-emulator -e nwipe"
 Icon=drive-harddisk
 Path=
-Terminal=true
+Terminal=false
 StartupNotify=false

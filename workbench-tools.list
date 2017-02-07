@@ -9,16 +9,16 @@ Comment=Utility Tools Launcher for MX Workbench
 
 Category=Disk Management
 gparted
-clonezilla root
-gsmartcontrol root
+clonezilla
+gsmartcontrol
 baobab root
 disk-manager
 qt4-fsarchiver root
 nwipe
-testdisk root
+testdisk
 
 Category=GRUB Boot Functions
-mx-bootrepair root
+mx-bootrepair
 grub-customizer root
 
 Category=File Management
@@ -33,7 +33,7 @@ Category=Antivirus
 clamavtk
 
 Category=File Recovery
-pohotorec root 
+photorec
 
 Category=Misc.
 blockout2
