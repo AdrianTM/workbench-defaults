@@ -28,6 +28,7 @@ freefilesync root
 grsync root
 file-roller
 gftp
+meld root
 
 Category=Antivirus
 clamavtk
@@ -45,6 +46,3 @@ ceni root
 wireshark root
 zenmap root 
 linssid
-
-Category=CLI Utilities
-custom-terminal root
