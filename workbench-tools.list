@@ -8,7 +8,7 @@ Name=Workbench Tools Launcher
 Comment=Utility Tools Launcher for MX Workbench
 
 Category=Disk Management
-gparted
+gparted root
 clonezilla
 gsmartcontrol
 baobab root
@@ -43,6 +43,6 @@ xfce4-terminal root
 
 Category=Network
 ceni root 
-wireshark root
+wireshark
 zenmap root 
 linssid
