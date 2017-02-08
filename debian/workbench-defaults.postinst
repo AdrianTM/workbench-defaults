@@ -1,0 +1,5 @@
+cp /usr/share/applications/workbench/defaults/whiskermenu-20.rc /etc/skel/.config/xfce4/panel/
+if [ -f /etc/skel/.config/autoruns/mx-welcome.desktop ]; then
+	rm /etc/skel/.config/autoruns/mx-welcome.desktop
+fi
+
