@@ -11,3 +11,4 @@ libreadonly-perl libsane-perl libset-intspan-perl libtiff-tools libtry-tiny-perl
 pkg-config python-poppler python-pypdf python-rsvg shotwell-common smtube libamd2.3.1 libbabl-0.1-0 \
 libcamd2.3.1 libccolamd2.8.0 libcholmod2.1.2 libgegl-0.2-0 libgimp2.0 libjavascriptcoregtk-1.0-0 libopenraw1 \
 libwebkitgtk-1.0-0 libwmf0.2-7 bunsen-pepperflash
+sudo apt-get autoremove
