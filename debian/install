@@ -5,5 +5,6 @@ workbench-tools.list	etc/custom-toolbox
 wallpaper/*		usr/local/share/backgrounds/MX16/wallpaper
 lightdm/*		usr/local/share/backgrounds/MX16/lightdm
 grub/*			usr/local/share/backgrounds/MX16/grub
+defaults/*		usr/share/applications/workbench/defaults
 defaults/lightdm-gtk-greeter.conf etc/lightdm
 defaults/grub		usr/local/share/live-files/general-files/etc/default
