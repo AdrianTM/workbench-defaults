@@ -1,6 +1,7 @@
+workbench-tools.desktop	usr/share/applications
+workbench-tools.desktop etc/skel/.config/autostart
 desktop_files/* 	usr/share/applications/workbench
 scripts/*		usr/share/applications/workbench/scripts
-desktop_files/workbench-tools.desktop etc/skel/.config/autostart
 workbench-tools.list	etc/custom-toolbox
 wallpaper/*		usr/local/share/backgrounds/MX16/wallpaper
 lightdm/*		usr/local/share/backgrounds/MX16/lightdm
