@@ -46,3 +46,9 @@ ceni root
 wireshark
 zenmap root 
 linssid
+
+Category=Live USB Tools
+mx-snapshot
+mx-remastercc
+live-usb-maker-gui
+
