@@ -18,26 +18,26 @@ Changes:
  .
    * Initial package
 Checksums-Sha1:
- 0b0d5b33b18cc60f4e8a7fdf8ff4e9d884e6d1a7 1187 workbench-defaults_0.17.2mx16.dsc
- 271512a38a45b26b59eb651f88dd9d707d108a49 1136584 workbench-defaults_0.17.2mx16.tar.xz
- 6c3fd7230dda6747967855bf4e06d131f7b0b9fe 800770 workbench-defaults_0.17.2mx16_all.deb
+ d7b9230e943c66b652f9207225e35551399d74ef 1184 workbench-defaults_0.17.2mx16.dsc
+ 9c284be06b0ae55a7be9432a01d7dfc2b4a382f1 811756 workbench-defaults_0.17.2mx16.tar.xz
+ 07982d4f311b5b1f7b49501425982d3d13d00a7c 800774 workbench-defaults_0.17.2mx16_all.deb
 Checksums-Sha256:
- 7fdbef305e1de04406fa5cf48da2863045f2b259b463cc9aca78767c89431595 1187 workbench-defaults_0.17.2mx16.dsc
- 642774c293520a2b5ffd5e6b213dd3c555b1eb2e49c24a6f55139dd7aa0eedb9 1136584 workbench-defaults_0.17.2mx16.tar.xz
- d4bca6430d905157c7084bfbe7a5ca6e43fa5a9c833776aa61d9ec64141f5e01 800770 workbench-defaults_0.17.2mx16_all.deb
+ ad7923ebae5c3e166d884d5b4bcc644cceb9de8088382d38f02aa069035e69b2 1184 workbench-defaults_0.17.2mx16.dsc
+ c4f64ffd2ff1471bd4ecd9ec0d971a004753da5730013a945c36c817ae0d13e4 811756 workbench-defaults_0.17.2mx16.tar.xz
+ 06d174ff6efdb90f32d6d6179c9b19e2ca76ebc16e8e40d5b6c13b6afd50e540 800774 workbench-defaults_0.17.2mx16_all.deb
 Files:
- e947f8d5583949543ec1850aea5685fe 1187 admin optional workbench-defaults_0.17.2mx16.dsc
- 00efc154af3ee6438c01a2a4b67539c2 1136584 admin optional workbench-defaults_0.17.2mx16.tar.xz
- 17a52b4f35512b70c57d5fe472ebbaa1 800770 admin optional workbench-defaults_0.17.2mx16_all.deb
+ 320bca6b99143ad9d9881fbdf29afb0d 1184 admin optional workbench-defaults_0.17.2mx16.dsc
+ c3bd028748cd99942ead393455dba801 811756 admin optional workbench-defaults_0.17.2mx16.tar.xz
+ 2019af246c1d7cdca87e9507adf5e6af 800774 admin optional workbench-defaults_0.17.2mx16_all.deb
 
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJYof11AAoJEHCTjHgGee6Y5IgH/0OHLLrMPMwHEq8b/iFFqtCD
-A3Fm4fl28z4siEh1UPlAjkN3ZI9A7Bx6D3Ly6MUU5FXhLaXEPRewk2XQTL5yuAqL
-vxVLcso0lxGf8884JqHldvaFU1M1MhPI5tPJjQ+m4Hhog93nWUyF/r4oMNNJhLqn
-adSAxqolrT8Op6SgUgm4Gz3T20Tl0fsZHEs2HtZyJQeHl41rxSFLLPE+U/fEiHc4
-70H8kf27a8ayNerzhaSD32telFNAK+wK699Pxp4kb6yzbmthsNmLAvPgS05gb6xV
-jirxyDhCcedy6zSsOCkNYaP1x+VSCyHQ3sxViUBE8UHQJlrxxtkWlUgApTScoxE=
-=e0/e
+iQEcBAEBAgAGBQJYof9fAAoJEHCTjHgGee6YFyQH/2yhjGm7CU0Qlb1Bq4vLxvRd
+7SueeWuG1VhHzhAeDNUYcsfaq3MhMuDZ4jhroTuVKXGBkNoBVqd29gaYan8Y5z5P
+IORGMmmCxW/TaGKeOpulw6Plg0H8jywV1IEv+y+ZFPXc4+g0hJ+Qio+Dh+bxLnw/
+7KfYXlPhQnpRm9yJLy9+jd2tBlflkZMoMxapQZwOKlIKSVHpxKz8yh1gp37wKGdc
+NbcFr+/Cd3mDFp0vDR9BH7YKH01FypARcD5Zb0a0QrkALK2ulIVImOppTdWMINUx
+6N8SyViOEGmji+X9WqXKagloHnJL1PoDfa9CMIa3V5axwmN0kcezKixKr0RVOP8=
+=19qG
 -----END PGP SIGNATURE-----
