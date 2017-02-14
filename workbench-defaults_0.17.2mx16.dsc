@@ -13,20 +13,20 @@ Build-Depends: debhelper (>= 7.0.50~), custom-toolbox
 Package-List:
  workbench-defaults deb admin optional arch=all
 Checksums-Sha1:
- 463aa5361038e56f9597277ea7bf19f16c71d073 815160 workbench-defaults_0.17.2mx16.tar.xz
+ 2bbd329d992b8d6a5b27f91b790bb1677f39d9f5 1143524 workbench-defaults_0.17.2mx16.tar.xz
 Checksums-Sha256:
- 9086f62aaf9ec759cddeff1a3bf30588f268a727ef6a29b880fe2df411e7e164 815160 workbench-defaults_0.17.2mx16.tar.xz
+ 82e9c306eb8278dbcb853531ddb61822aaf420f54a9bfecec9234d6b4a01b055 1143524 workbench-defaults_0.17.2mx16.tar.xz
 Files:
- e8141142a4879dc9aaadb5486efaba7e 815160 workbench-defaults_0.17.2mx16.tar.xz
+ fe0ebd6537a03cbd06e7b359a2f921ee 1143524 workbench-defaults_0.17.2mx16.tar.xz
 
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJYo2xiAAoJEHCTjHgGee6YqL4H/2hpN0Is780qy983XLW/3DaS
-WHmbmDiTGDiTCE25FjkvE2IuPFp7CAc8Is8ZPQoTHFdcrzTegBHRXko/3VJYBgf7
-Ikrx1f4pb8KYZaPJUXm8M0OJjohPpMld0k4Y5YDkZ5Y7rr8dSUslZ/K+u8jrI/8h
-xx0gaKrbl/kd9iVTPJSeVI5PHg/70j7TB7pxnsT+6FgRS57maePisWbTtWgY6ACv
-B+/TE/qCEvHFhrX52Bkxo/TUfHud2xFIJxzkfsvqF+3wKpMYMjK1iEdqwKVUBdCW
-L+Koo8aGGnJDkPbFvAbFYb7ZuWw5u4Whj44/D40s//utznYwZoXrpMJ7NxJtcXk=
-=l0sx
+iQEcBAEBAgAGBQJYo3h3AAoJEHCTjHgGee6YgdgIAKApQ18WtmmSDxKKDHJyq2Xd
+gkgDed4KB8xLKpn3XrKwSI6phJyy7haEVwJwyVR7VmOOe+cdAXI67W8Eq0b3pHtU
+E8d+FP13kv2HrJWnV7fF/guL/AWAkl+XH6dfrRIm1UEou5DFtByFivr30aYQsQgK
+YVURymeptVJwVHEUcjrEciw3/+9Ck3LUa0V9jFG9XUSbjTRaUNNiey0Zyfja2tJV
+neNbm8XI3jqjXFAbEyhSAi4AYQtR6Inpj7aZQg6lZe8PJDWNOtxO6Stw7rp3o9zo
+/FRxR5BVm5qu+9rC6pXjdqF0fzfcBqo6IOm/lkbhBVVA0tWiIW4ex42ohIOUjfo=
+=L8m0
 -----END PGP SIGNATURE-----
