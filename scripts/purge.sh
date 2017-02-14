@@ -12,5 +12,5 @@ pkg-config python-poppler python-pypdf python-rsvg shotwell-common smtube libamd
 libcamd2.3.1 libccolamd2.8.0 libcholmod2.1.2 libgegl-0.2-0 libgimp2.0 libjavascriptcoregtk-1.0-0 libopenraw1 \
 libwebkitgtk-1.0-0 libwmf0.2-7 bunsen-pepperflash papirus-gtk-icon-theme mediterranean-themes \
 mx-bluebird-themes mx-greybird-themes mx-sound-theme-borealis tango-icon-theme zukitwo-themes mx-system-sounds \
-mx-apps mx-defaultlook mx-welcome mx-adwaita-dark-xfce-themes
+mx-apps mx-defaultlook mx-welcome mx-adwaita-dark-xfce-themes spamassassin
 sudo apt-get autoremove
