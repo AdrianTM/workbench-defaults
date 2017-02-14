@@ -1,5 +1,6 @@
 cp -r /usr/share/applications/workbench/defaults/panel/* /etc/skel/.config/xfce4/panel
 cp /usr/share/applications/workbench/defaults/xfconf/xfce-perchannel-xml/* /etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml
+cp -r /usr/share/applications/workbench/defaults/qt4-fsarchiver/* /etc/skel/.config
 
 if [ -f /etc/skel/.config/autostart/mx-welcome.desktop ]; then
 	rm /etc/skel/.config/autostart/mx-welcome.desktop
