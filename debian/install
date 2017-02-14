@@ -9,3 +9,4 @@ grub/*			usr/local/share/backgrounds/MX16/grub
 defaults/*		usr/share/applications/workbench/defaults
 defaults/lightdm-gtk-greeter.conf etc/lightdm
 defaults/grub		usr/local/share/live-files/general-files/etc/default
+defaults/workbench-sudoers etc/sudoers.d
