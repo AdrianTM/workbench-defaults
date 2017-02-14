@@ -35,7 +35,10 @@ dh_pysupport: This program is deprecated, you should use dh_python2 instead. Mig
    dh_link
    dh_strip_nondeterminism
    dh_compress
-   dh_fixperms
+   debian/rules override_dh_fixperms
+make[1]: Entering directory '/home/adrian/build'
+dh_fixperms --exclude install.sh --exclude purge.sh
+make[1]: Leaving directory '/home/adrian/build'
    dh_installdeb
    dh_gencontrol
 dpkg-gencontrol: warning: File::FcntlLock not available; using flock which is not NFS-safe

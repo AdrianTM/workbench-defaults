@@ -13,22 +13,22 @@ clonezilla
 gsmartcontrol
 baobab root
 disk-manager
-qt4-fsarchiver root
+qt4-fsarchiver
 nwipe
 testdisk
 
 Category=GRUB Boot Functions
 mx-bootrepair
-grub-customizer root
+grub-customizer
 
 Category=File Management
-mc root
+mc
 xfburn
-freefilesync root
+freefilesync
 grsync root
 file-roller
 gftp
-meld root
+meld
 
 Category=Antivirus
 clamtk
@@ -36,15 +36,13 @@ clamtk
 Category=File Recovery
 photorec
 
-Category=Misc.
-blockout2
-geany 
-xfce4-terminal root
+Category=Hardware Info
+hardinfo
 
 Category=Network
-ceni root 
+ceni
 wireshark
-zenmap root 
+zenmap
 linssid
 
 Category=Live USB Tools
