@@ -1,5 +1,5 @@
-cp /usr/share/applications/workbench/defaults/whiskermenu-20.rc /etc/skel/.config/xfce4/panel/whiskermenu-20.rc
-cp /usr/share/applications/workbench/defaults/*.xml /etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml
+cp -r /usr/share/applications/workbench/defaults/panel/* /etc/skel/.config/xfce4/panel
+cp /usr/share/applications/workbench/defaults/xfconf/xfce-perchannel-xml/* /etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml
 
 if [ -f /etc/skel/.config/autostart/mx-welcome.desktop ]; then
 	rm /etc/skel/.config/autostart/mx-welcome.desktop
