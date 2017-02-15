@@ -10,43 +10,48 @@ Comment=Utility Tools Launcher for MX Workbench
 Category=Disk Management
 gparted root
 clonezilla
-gsmartcontrol
+gsmartcontrol root
 baobab root
-disk-manager
-qt4-fsarchiver
+disk-manager root
+qt4-fsarchiver root
 nwipe
 testdisk
 
 Category=GRUB Boot Functions
-mx-bootrepair
-grub-customizer
+mx-bootrepair root
+grub-customizer root
 
 Category=File Management
-mc
+mc root
 xfburn
-freefilesync
+freefilesync root
 grsync root
-file-roller
+file-roller root
 gftp
-meld
+meld root
 
 Category=Antivirus
-clamtk
+clamtk root
 
 Category=File Recovery
 photorec
+
+Category=Misc.
+blockout2
+geany 
+xfce4-terminal root
 
 Category=Hardware Info
 hardinfo
 
 Category=Network
-ceni
+ceni root 
 wireshark
-zenmap
+zenmap root 
 linssid
 
 Category=Live USB Tools
-mx-snapshot
-mx-remastercc
-live-usb-maker-gui
+mx-snapshot root
+mx-remastercc root
+live-usb-maker-gui root
 
