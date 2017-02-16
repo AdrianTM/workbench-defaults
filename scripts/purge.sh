@@ -1,5 +1,5 @@
 #/bin/bash
-sudo apt-get purge mx-clocky luckybackup peg-e chromium-bsu gimp shotwell gimp-data thunderbird gscan2pdf \
+sudo apt-get purge mx-clocky luckybackup peg-e chromium-bsu chromium-bsu-data gimp shotwell gimp-data thunderbird gscan2pdf \
 asunder clementine pdfshuffler dconf-cli libalut0 libconfig-general-perl libcrypto++9 libechonest2.1 \
 libexiv2-13 libextutils-depends-perl libextutils-pkgconfig-perl libfilesys-df-perl libfont-ttf-perl \
 libftgl2 libgee-0.8-2 libgexiv2-2 libglc0 libglewmx1.10 libgoo-canvas-perl libgoocanvas-common \
