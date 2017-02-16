@@ -11,7 +11,7 @@ Category=Disk Management
 gparted root
 clonezilla
 gsmartcontrol root
-baobab root
+org.gnome.baobab root
 disk-manager root
 qt4-fsarchiver root
 nwipe
@@ -49,6 +49,7 @@ ceni root
 wireshark
 zenmap root 
 linssid
+mx-findshares root
 
 Category=Live USB Tools
 mx-snapshot root
