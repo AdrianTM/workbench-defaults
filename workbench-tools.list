@@ -26,7 +26,7 @@ mc root
 xfburn
 freefilesync root
 grsync root
-file-roller root
+org.gnome.FileRoller root
 gftp
 meld root
 
