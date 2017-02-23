@@ -29,6 +29,7 @@ grsync root
 org.gnome.FileRoller root
 gftp
 meld root
+ghex root
 
 Category=Antivirus
 clamtk root
