@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Mon, 19 Mar 2018 08:32:32 -0400
+Source: workbench-defaults
+Binary: workbench-defaults
+Architecture: source all
+Version: 0.18.3
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ workbench-defaults - Defaults settings for MX Workbench respin
+Changes:
+ workbench-defaults (0.18.3) mx; urgency=medium
+ .
+   * added ipert, dmraid, fio, bonnie++, stressapptest
+Checksums-Sha1:
+ 66923f8bef310b952a71de714ce13b1c35622b5b 1162 workbench-defaults_0.18.3.dsc
+ 3887c3e282b3a85b3e41449621a1b64116a5b4c4 814112 workbench-defaults_0.18.3.tar.xz
+ 62aef11b3059a9af293bb4bbc3b1f75477ecf215 804612 workbench-defaults_0.18.3_all.deb
+Checksums-Sha256:
+ fca4648ffe34044747e4e353c61f1a11b90b952d0e0f520215589d5b877c6df4 1162 workbench-defaults_0.18.3.dsc
+ c1e0a3f8c90dc88b8a0e91a0422b1be206d5ca9cdab89e53a1a1a1ad69d5265e 814112 workbench-defaults_0.18.3.tar.xz
+ 8613a0ea235fc6e166390434b4c474bf9183ff7efcb7e506f042e721dc9bbf7e 804612 workbench-defaults_0.18.3_all.deb
+Files:
+ 7c90e140c18f26cd7fd06e821a0f9b27 1162 admin optional workbench-defaults_0.18.3.dsc
+ 9e7c6336f8033a4c405bba2e8e6ae4cf 814112 admin optional workbench-defaults_0.18.3.tar.xz
+ e74b7355168a523e427a82f155849f4e 804612 admin optional workbench-defaults_0.18.3_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJar7C3AAoJEHCTjHgGee6YYdMIAKamYmkggUluehGCb61+LQ3M
+AuGlkLTRGI9Ik+Czd0Lw9tKuZvi39lCeWTBMGg4Sf2eojRHA0HU89FoqpiFZ3l1v
+9w4tgqs6OvAAIY4NoGUQHQNTISVkIiJ7De5pgxgL70NDhYccoOAk16deWbjXtUjc
+SalRQU7pRXhiCWxK0OWtxogWGgPEotDPLVh5ezXIecKp9tWOFnHIo2ODvQZEccDf
+PYN4tXKO2uxOqye72lt9eRyccEdWWdOTUaDY3Pp3xC8IB8yYGXaQN83KgppA0U73
+M5UWMw5lk409C961Cega92XLNGC66KuaRfSVDB9kma9Mlp8marAgU8aJx7Y3QT4=
+=5/sU
+-----END PGP SIGNATURE-----

@@ -1,4 +1,4 @@
-workbench-defaults (0.17.3) mx; urgency=medium
+workbench-defaults (0.18.3) mx; urgency=medium
 
   * added ipert, dmraid, fio, bonnie++, stressapptest
 
