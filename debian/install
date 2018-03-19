@@ -3,9 +3,9 @@ workbench-tools.desktop etc/skel/.config/autostart
 desktop_files/* 	usr/share/applications/workbench
 scripts/*		usr/share/applications/workbench/scripts
 workbench-tools.list	etc/custom-toolbox
-wallpaper/*		usr/local/share/backgrounds/MX16/wallpaper
-lightdm/*		usr/local/share/backgrounds/MX16/lightdm
-grub/*			usr/local/share/backgrounds/MX16/grub
+wallpaper/*		usr/share/backgrounds/MXLinux
+lightdm/*		usr/share/backgrounds/MXLinuxx/lightdm
+grub/*			usr/share/backgrounds/MXLinux/grub
 defaults/*		usr/share/applications/workbench/defaults
 defaults/lightdm-gtk-greeter.conf etc/lightdm
 defaults/grub		usr/local/share/live-files/general-files/etc/default
