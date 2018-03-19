@@ -2,8 +2,8 @@ Source: workbench-defaults
 Section: admin
 Priority: optional
 Maintainer: Adrian <adrian@mxlinux.org>
-Build-Depends: debhelper (>=7.0.50~), custom-toolbox
-Standards-Version: 3.9.5
+Build-Depends: debhelper (>=9), custom-toolbox
+Standards-Version: 3.9.8
 Vcs-Git: git://github.com/AdrianTM/workbench-defaults
 
 Package: workbench-defaults

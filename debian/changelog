@@ -1,3 +1,9 @@
+workbench-defaults (0.17.3) mx; urgency=medium
+
+  * added ipert, dmraid, fio, bonnie++, stressapptest
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 19 Mar 2018 08:32:32 -0400
+
 workbench-defaults (0.17.2mx16) mx; urgency=medium
 
   * Initial package
