@@ -1,4 +1,4 @@
-favorites=xfce4-run.desktop,libreoffice-startcenter.desktop,mx-tools.desktop,xfce4-terminal.desktop,workbench-tools.desktop
+favorites=xfce4-run.desktop,conky-toggle.desktop,libreoffice-startcenter.desktop,mx-tools.desktop,workbench-tools.desktop,Help.desktop,xfce4-taskmanager.desktop,xfce4-terminal.desktop
 recent=xfce4-appfinder.desktop,org.gnome.FileRoller.desktop,mx-tools.desktop,mx-welcome.desktop,xfce4-power-manager-settings.desktop,synaptic.desktop,xfce4-terminal.desktop
 button-title=Applications Menu
 button-icon=/usr/local/share/icons/mxfcelogo-rounded.png
@@ -31,8 +31,8 @@ show-command-logout=true
 command-menueditor=mx-menu-editor
 show-command-menueditor=true
 command-profile=mugshot
-show-command-profile=false
-search-actions=4
+show-command-profile=true
+search-actions=5
 
 [action0]
 name=Man Pages
@@ -41,20 +41,22 @@ command=exo-open --launch TerminalEmulator man %s
 regex=false
 
 [action1]
-name=Wikipedia
-pattern=!w
-command=exo-open --launch WebBrowser http://en.wikipedia.org/wiki/%u
+name=Web Search
+pattern=?
+command=exo-open --launch WebBrowser https://duckduckgo.com/?q=%u
 regex=false
 
 [action2]
+name=Wikipedia
+pattern=!w
+command=exo-open --launch WebBrowser https://en.wikipedia.org/wiki/%u
+regex=false
+
+[action3]
 name=Run in Terminal
 pattern=!
 command=exo-open --launch TerminalEmulator %s
 regex=false
 
-[action3]
-name=Open URI
-pattern=^(file|http|https):\\/\\/(.*)$
-command=exo-open \\0
-regex=true
+
 
