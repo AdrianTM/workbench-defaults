@@ -4,7 +4,7 @@ desktop_files/* 	usr/share/applications/workbench
 scripts/*		usr/share/applications/workbench/scripts
 workbench-tools.list	etc/custom-toolbox
 wallpaper/*		usr/share/backgrounds/MXLinux
-lightdm/*		usr/share/backgrounds/MXLinuxx/lightdm
+lightdm/*		usr/share/backgrounds/MXLinux/lightdm
 grub/*			usr/share/backgrounds/MXLinux/grub
 defaults/*		usr/share/applications/workbench/defaults
 defaults/lightdm-gtk-greeter.conf etc/lightdm

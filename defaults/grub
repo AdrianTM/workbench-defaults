@@ -32,5 +32,5 @@ GRUB_DISABLE_RECOVERY="true"
 #GRUB_INIT_TUNE="480 440 1"
 
 GRUB_DISABLE_OS_PROBER=false
-#GRUB_BACKGROUND=/usr/local/share/backgrounds/MXLinux/grub/wood-architect-table-work-BW.jpeg
+#GRUB_BACKGROUND=/usr/share/backgrounds/MXLinux/grub/wood-architect-table-work-BW.jpeg
 export GRUB_MENU_PICTURE="/usr/share/backgrounds/MXLinux/grub/wood-architect-table-work-BW.jpeg"
