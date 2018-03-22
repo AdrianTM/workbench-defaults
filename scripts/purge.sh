@@ -13,6 +13,7 @@ libgegl-0.2-0-dbg libgimp2.0 libjavascriptcoregtk-1.0-0 libopenraw1 \
 libwebkitgtk-1.0-0 bunsen-pepperflash mx-system-sounds mx-apps mx-defaultlook mx-welcome spamassassin \
 mx-installer libreoffice-core mx-sound-theme-fresh-and-clean mx-sound-theme-borealis \
 mx-sound-theme-fresh-and-clean blackbird-gtk-theme arc-theme arc-theme-hdpi arc-theme-xhdpi \
-dmz-cursor-theme numix-gtk-theme numix-icon-theme sound-theme-freedesktop tango-icon-theme 
+dmz-cursor-theme numix-gtk-theme numix-icon-theme sound-theme-freedesktop tango-icon-theme  \
+faenza-cupertino-icons
 
 sudo apt-get autoremove
