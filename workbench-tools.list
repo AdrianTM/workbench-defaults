@@ -13,7 +13,7 @@ clonezilla
 gsmartcontrol root
 org.gnome.baobab root
 disk-manager root
-qt4-fsarchiver root
+gnome-qt4-fsarchiver root
 nwipe
 testdisk
 
