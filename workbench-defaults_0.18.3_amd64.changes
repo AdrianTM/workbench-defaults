@@ -18,26 +18,26 @@ Changes:
  .
    * added ipert, dmraid, fio, bonnie++, stressapptest
 Checksums-Sha1:
- c7ea46c13b1675f01fdee5a932ea819751fa6aa1 1162 workbench-defaults_0.18.3.dsc
- c1d54fb13a6c21d0e8316af662bfdc6c5a354681 814380 workbench-defaults_0.18.3.tar.xz
- 513fceac61c944c3b5a43fc6a336cbe15cdfa0c2 804982 workbench-defaults_0.18.3_all.deb
+ 581404b8365aefe37cbcd1e87bef9fb2a2c56334 1162 workbench-defaults_0.18.3.dsc
+ 91ecf083acc61ed7c7b6511357dc0cbf83dbfd5d 814416 workbench-defaults_0.18.3.tar.xz
+ 3223c8f19e9175067f94b926f4c08b30d5fb8066 804972 workbench-defaults_0.18.3_all.deb
 Checksums-Sha256:
- 366b771a9ebb91c32e464269fa89db6855dee0d4a384331bb6739d39e522d159 1162 workbench-defaults_0.18.3.dsc
- 9c40ed2f6617c43378beda4e75cb89c7f15892f3c508db6ac9c30d0d292b2a12 814380 workbench-defaults_0.18.3.tar.xz
- 7637e520da97893ac1e643e45444a869bcf5dae8bea883f40cfd81ed7665524f 804982 workbench-defaults_0.18.3_all.deb
+ b5d6a125a13f8bf1d98e1969ae3050d742eddc5d20e505fdf6997b644b8e37da 1162 workbench-defaults_0.18.3.dsc
+ 79f766090704ee70c89f37cc1282cdd1e711ce976b643a64efbc01b16a556ae6 814416 workbench-defaults_0.18.3.tar.xz
+ 67198079037d0fbddcd9858ded34b954e62435eaab9aa6cb8c0216ae287555ad 804972 workbench-defaults_0.18.3_all.deb
 Files:
- 147afa616f6f9353fd315f603164d27d 1162 admin optional workbench-defaults_0.18.3.dsc
- d12dfb264c3dbaab0c97aca6bc10ffc5 814380 admin optional workbench-defaults_0.18.3.tar.xz
- 3f80d404feebffdc5cb570c3ac5a4426 804982 admin optional workbench-defaults_0.18.3_all.deb
+ 839f4cf5d2b45ca992c6dd43a4cf77ee 1162 admin optional workbench-defaults_0.18.3.dsc
+ 5a28509bdff750a00dd033d7ca0c5b45 814416 admin optional workbench-defaults_0.18.3.tar.xz
+ 266325c24d2f9eb71effbd2ac807fc0c 804972 admin optional workbench-defaults_0.18.3_all.deb
 
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJatWz9AAoJEHCTjHgGee6YNIYH/iGt3Gn5SWM17vTinm6XPVrJ
-0UDbjqNHUCVH2YOGRAxpyFQAxOaAhEI1tvkyd5OfUNSrTCsk1+DIsmtnwrP0KYZc
-4J8o22xzMg3Brzuanre6Vqukk70WumDlRbxziU2/mbvepEjLr8ZGYzCBR0PmgHs2
-JuKKaoRMmLigSYFVY9XGhIineghznSx5rS7B2f0O6Dmawzz15omeXTzN4C3+rL9k
-uFoqMiI7fpJRmrPIarxKAHfCXZDkVWgNOuYCjL4UXL0BdDV5sI68c96JcakQ0FT/
-VAyDRzcJYTTZznuQEfFgcfcFXA7VB+AlNXc/DmmuYVG5d69XLxQwubXihBQ2754=
-=Xzch
+iQEcBAEBAgAGBQJatXP6AAoJEHCTjHgGee6Yq4sH+gP17nDnuDWChm5Ft4H9R6tf
+KAfDUEw/EsDCSwvdMhtPSbW0Mpx06xn8w8c4SlK7LAvh45jWlgG6iy8ilgcO8mUb
+NBvLFBNv1BiW8jzsXIdELfasOdUkhKVDoflRO8XcESj6Oa2d8rAF5+LziXBxDGwN
+u1TQRzMg97TT2th1YmO33520piZyN9K8Z22o5dVBojRdbYlxX5vR2avTQIRiRWu1
+9xzwAtM+2pm6Pb9tlAmcGuc2rOzG+5dpeJz/wnjhKwgc5uIT4fz0UDDBv3S7Fu06
+3T8N1GYiUzZrbTD00RorELTvzKulr9ootXqrGo6jiNZhjYByxnBo2YgBdPAw/yw=
+=43F0
 -----END PGP SIGNATURE-----
