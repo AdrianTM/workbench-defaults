@@ -18,3 +18,5 @@ if [ -d /etc/skel/.conky ]; then
 	rm -r /etc/skel/.conky
 fi
 
+sed -i 's/force_installer=true/force_installer=false/g' /etc/mx-snapshot.conf
+
