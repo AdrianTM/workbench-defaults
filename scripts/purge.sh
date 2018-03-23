@@ -14,6 +14,6 @@ libwebkitgtk-1.0-0 bunsen-pepperflash mx-system-sounds mx-apps mx-defaultlook mx
 mx-installer libreoffice-core mx-sound-theme-fresh-and-clean mx-sound-theme-borealis \
 mx-sound-theme-fresh-and-clean blackbird-gtk-theme arc-theme arc-theme-hdpi arc-theme-xhdpi \
 dmz-cursor-theme numix-gtk-theme numix-icon-theme sound-theme-freedesktop tango-icon-theme  \
-faenza-cupertino-icons
+faenza-cupertino-icons conky-all conky-toggle-mx mx-conky
 
 sudo apt-get autoremove
