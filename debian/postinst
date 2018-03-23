@@ -6,3 +6,15 @@ if [ -f /etc/skel/.config/autostart/mx-welcome.desktop ]; then
 	rm /etc/skel/.config/autostart/mx-welcome.desktop
 fi
 
+if [ -d /etc/skel/Desktop ]; then
+	rm -r /etc/skel/Desktop
+fi
+
+if [ -d /usr/local/share/live-files/files/etc/skel/Desktop]; then 
+	rm -r /usr/local/share/live-files/files/etc/skel/Desktop
+fi 
+
+if [ -d /etc/skel/.conky ]; then
+	rm -r /etc/skel/.conky
+fi
+
