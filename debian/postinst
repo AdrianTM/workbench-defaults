@@ -10,7 +10,7 @@ if [ -d /etc/skel/Desktop ]; then
 	rm -r /etc/skel/Desktop
 fi
 
-if [ -d /usr/local/share/live-files/files/etc/skel/Desktop]; then 
+if [ -d /usr/local/share/live-files/files/etc/skel/Desktop ]; then 
 	rm -r /usr/local/share/live-files/files/etc/skel/Desktop
 fi 
 
