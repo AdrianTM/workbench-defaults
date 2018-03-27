@@ -2,7 +2,7 @@
 Hash: SHA1
 
 Format: 1.8
-Date: Mon, 19 Mar 2018 08:32:32 -0400
+Date: Tue, 27 Mar 2018 10:08:34 -0400
 Source: workbench-defaults
 Binary: workbench-defaults
 Architecture: source all
@@ -16,28 +16,28 @@ Description:
 Changes:
  workbench-defaults (0.18.3) mx; urgency=medium
  .
-   * added ipert, dmraid, fio, bonnie++, stressapptest
+   * add gvfs-backends
 Checksums-Sha1:
- 4f9e0e63d63165a175108f1ab38880ab6e78b635 1162 workbench-defaults_0.18.3.dsc
- 1bb63ceaa6e02a3d503a91fec58e6943f455d66c 814412 workbench-defaults_0.18.3.tar.xz
- 2ff2f1fbe88048a80a54f694afcb7bd2386196db 804944 workbench-defaults_0.18.3_all.deb
+ 50b3ab582994105dfec6c27b474cbb348cc372c3 1162 workbench-defaults_0.18.3.dsc
+ 83124b466b0b7509830a7f9a98267712903893a5 814440 workbench-defaults_0.18.3.tar.xz
+ 3507391cecfb0cc9bea3564f8e0004dd0b4bea8e 805018 workbench-defaults_0.18.3_all.deb
 Checksums-Sha256:
- 2991542af31ef930a22ac601fb07f7126fcba8ed420f9bf3ace45e74510d487e 1162 workbench-defaults_0.18.3.dsc
- 624d4a42d84ad1efccc4e6f9f959ce3ce8b2dae0d76f79534a80e5cc5068b561 814412 workbench-defaults_0.18.3.tar.xz
- 1f9b87874e8d44228eb708ed7150437c1f6e45e296091d0819d7338eb4cffbe9 804944 workbench-defaults_0.18.3_all.deb
+ b1469c194aebc73e0f844eb650d5e278515ecd7f91f1ac772c5b39367df7f240 1162 workbench-defaults_0.18.3.dsc
+ d58fa60b856a70f3fe0a3a3a51aecf1ce39d4809252e95fd35795f902a5293f2 814440 workbench-defaults_0.18.3.tar.xz
+ 6a9ad297ff9b1eb90d4b3ed8c05470371d0c8d57c5e8248c72311d3228296a02 805018 workbench-defaults_0.18.3_all.deb
 Files:
- 61222671c5f11e688757ab409074ecf4 1162 admin optional workbench-defaults_0.18.3.dsc
- bb092e173af332f684a2b8a3ec580f2f 814412 admin optional workbench-defaults_0.18.3.tar.xz
- 9a7145f4f78ef9bb308fd95efd94a249 804944 admin optional workbench-defaults_0.18.3_all.deb
+ 92b5c947fc3c53bad74f3c86d9b9ee35 1162 admin optional workbench-defaults_0.18.3.dsc
+ 3ffa39d929e322278e3c8196ef0936f9 814440 admin optional workbench-defaults_0.18.3.tar.xz
+ e38700b4308880ee4b4a96458cc5aa21 805018 admin optional workbench-defaults_0.18.3_all.deb
 
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJauTmdAAoJEHCTjHgGee6YTc8H/RXlPL+xnOD2XnPo9DMgaRwl
-qPWHWb2rA8oFcvCPmDKWYq67L/WqQL+TabaV9lifnn+eN3Vzm5Pdy5z1kanK+6oL
-G9/pIruwOJvPzKTnyMN0e0DtHKCK8udA/+yaB92a88//6XQCBAP5LBJFBKn3PQk8
-uAJbfO3VyWhUWrOMtUIHWER4YV9/HhkHloG5+oI5LXnQubI9sRatQC75GYkUKbYp
-sa/bqFoZcNyxFS0hFRrIfPKDQE2wDbqb0gkK6cLPnqd6b6LTU+hgM6RPUCbu0faT
-T96U6xhtUUCiJun3bxPdUehe0YotibqecFu1sMBiexYRPmjmkczLraKop/VO1Us=
-=LUHF
+iQEcBAEBAgAGBQJaulCYAAoJEHCTjHgGee6Y53sH/0YDSpZdvgodK7x7HRKLbmJt
+0Vk7jWZXKRDph3cUwUyDJUSPKUskl6UEPY431iAta14sDyZnLR8Wg0qUJSW5Ffnn
++cU+7hEnB1dd8cn5YNaygn5D1T3848ZtwQQN8AqnR/7RXAiDHplNvKD5p+Y7Loty
+2JGTEQFY2uVv/gJ5mZ+WM01nZEpQZLoRdY0yugTiWJ98T2ZiRtvm4+rFMJvDKjJG
+yjtrZBhJHKrAslS/+ThAznPpdKRUCwtHMhRRttKxlhdzMcnwKFIbMywSvmweJeCh
+HNF+rxWE9oK5I7EB8LzcZ9lNhNtgI4M1ALOm614eHEaSdfr6nM51LNNT6UEfJmE=
+=bn+W
 -----END PGP SIGNATURE-----
