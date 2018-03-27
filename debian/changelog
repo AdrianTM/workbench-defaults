@@ -1,5 +1,11 @@
 workbench-defaults (0.18.3) mx; urgency=medium
 
+  * add gvfs-backends
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 27 Mar 2018 10:08:34 -0400
+
+workbench-defaults (0.18.3) mx; urgency=medium
+
   * added ipert, dmraid, fio, bonnie++, stressapptest
 
  -- Adrian <adrian@mxlinux.org>  Mon, 19 Mar 2018 08:32:32 -0400
