@@ -49,7 +49,7 @@ Category=Network
 ceni root 
 wireshark
 zenmap root 
-linssid
+linssid root
 mx-findshares root
 
 Category=Live USB Tools

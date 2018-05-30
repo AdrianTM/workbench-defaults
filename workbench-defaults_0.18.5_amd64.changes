@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Tue, 29 May 2018 20:29:12 -0400
+Source: workbench-defaults
+Binary: workbench-defaults
+Architecture: source all
+Version: 0.18.5
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ workbench-defaults - Defaults settings for MX Workbench respin
+Changes:
+ workbench-defaults (0.18.5) mx; urgency=medium
+ .
+   * add root for linssid
+Checksums-Sha1:
+ f37350786825ee565a1dfadce701184718f6ccb3 1162 workbench-defaults_0.18.5.dsc
+ 1fe7e152db0c1398d3eb284f7653a038d4cd61fb 814480 workbench-defaults_0.18.5.tar.xz
+ e0a4d4601f6d91671d7a1e14a95edc3333852eed 805090 workbench-defaults_0.18.5_all.deb
+Checksums-Sha256:
+ 80ebef694788072f0f06fcc43c8a83c6333f46a2265266d5c74be45f45907b63 1162 workbench-defaults_0.18.5.dsc
+ 4e6a38c82b719c923677d88bbfee936d925de45f22eaf76d18f8b71659468748 814480 workbench-defaults_0.18.5.tar.xz
+ c62ee5619ae7e25d2292c6aa6a795d07cdaa64acf306de536e8d0873a8bed568 805090 workbench-defaults_0.18.5_all.deb
+Files:
+ 7fa0a9413fe4b4d92b39cb79b219275d 1162 admin optional workbench-defaults_0.18.5.dsc
+ b35232a132ea1a6847d1c65f18566378 814480 admin optional workbench-defaults_0.18.5.tar.xz
+ 2862715bc06a75ea33d774ff18b6db2b 805090 admin optional workbench-defaults_0.18.5_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJbDfCxAAoJEHCTjHgGee6Y7B8IALOnI4/teRJZVKcDG8bh9sRq
+fbXifMKU3rrVHgpRYefy34pnz0p0Zirkk8xC2B2vZISjzYuX88vzJEf1tgiW28iq
+/NkM6mSKcywJjieCrSy+4EYRZpYfjiqIAejKocbYPl5mkQYEZ88uaHudNPS8mNCw
+AbIl5k6rL8VlyZqjed76bbNLqUAU8H5D5MzRhk7DxBQ9dyrylHHxLruOMihTFBAO
+XYltzM9QILx4tPQuOgbhr+6qfkUMsV3uSiYMTCTykFcb4PZFpUF67+EuOlmHMgDM
+iwrNC82gPErPBVjbMZfCq6Aqs86c829zanuNfmnKAVE759DVeCC77IY6YlntAIw=
+=qDze
+-----END PGP SIGNATURE-----
