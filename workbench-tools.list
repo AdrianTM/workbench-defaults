@@ -19,7 +19,7 @@ testdisk
 
 Category=GRUB Boot Functions
 mx-bootrepair root
-grub-customizer root
+mx-boot-options root
 
 Category=File Management
 mc root
