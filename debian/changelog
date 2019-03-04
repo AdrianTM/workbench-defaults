@@ -1,7 +1,7 @@
 workbench-defaults (0.19.3) mx; urgency=medium
 
   * remote xscreensaver, cli-installer-antix
-  * add light-locker
+  * add light-locker, iotop
 
  -- Adrian <adrian@mxlinux.org>  Mon, 04 Mar 2019 16:45:35 -0500
 
