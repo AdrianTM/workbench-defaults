@@ -19,29 +19,29 @@ Changes:
    * remote xscreensaver, cli-installer-antix
    * add light-locker
 Checksums-Sha1:
- f64f1e618cd447973e1b3e9e3ce28b26d9d5c773 1203 workbench-defaults_0.19.3.dsc
- 5cba45595ec11524bb1cbb98da4088eaf652b712 814796 workbench-defaults_0.19.3.tar.xz
- 1218c9fd2a895dce7fa56ae1936dc9d15acf8ca9 804970 workbench-defaults_0.19.3_all.deb
- ba3ec224180c786867290989fc4ba1399d7bf0f1 10870 workbench-defaults_0.19.3_amd64.buildinfo
+ bf2cdbb12bd1021da968c3d328e03b0dab70b380 1203 workbench-defaults_0.19.3.dsc
+ b942700f7f87923c75f4c4dc0d6d0fa317d38676 814776 workbench-defaults_0.19.3.tar.xz
+ 2efddde1410dff9da23e9dc4ac9d54ec489077c1 804996 workbench-defaults_0.19.3_all.deb
+ b4ae7654a772cd982245faf48a6176ac9534720a 10870 workbench-defaults_0.19.3_amd64.buildinfo
 Checksums-Sha256:
- 022595f900a125a996c3f0a749452d14f960114b7dc10157072c98ced27ae84d 1203 workbench-defaults_0.19.3.dsc
- b284b075e8fa57f096b0ac13456f60cbf14201657953e5de170725333654c25b 814796 workbench-defaults_0.19.3.tar.xz
- bad0f72500fe899a386d9b5d6b558b119d33b1761752f96332c8950ca59c70df 804970 workbench-defaults_0.19.3_all.deb
- 1d9faea4172fdbff1f164469507dcd8c0455172d81099071998eb857b134460e 10870 workbench-defaults_0.19.3_amd64.buildinfo
+ a6ff36a04f76bd0b2cf67d2c00d3e81809f8137e35943135ecdd29e86935df4e 1203 workbench-defaults_0.19.3.dsc
+ ac4de53825105067882551dbf767678d6b689ae3d0601691a05459e13c1ff911 814776 workbench-defaults_0.19.3.tar.xz
+ 0302823a5003be4980b6f8095664610c58239f52980b94496f04941303ac38d8 804996 workbench-defaults_0.19.3_all.deb
+ 28b44f5a47763e7c2fb38d2d076a217baae72052bd3573678b0b97185d15ea60 10870 workbench-defaults_0.19.3_amd64.buildinfo
 Files:
- 6e9cfbaf3674a13604c9280fda49032a 1203 admin optional workbench-defaults_0.19.3.dsc
- 5a5ffb634d5ebf90b08c9b0a3aa32fa0 814796 admin optional workbench-defaults_0.19.3.tar.xz
- 6351942b9cab3b96ca2ccb4b50e0cb51 804970 admin optional workbench-defaults_0.19.3_all.deb
- f50aade3eca99f1bdb992bc504ef739e 10870 admin optional workbench-defaults_0.19.3_amd64.buildinfo
+ 8f9569676d54dc7e88e5b6f460060605 1203 admin optional workbench-defaults_0.19.3.dsc
+ 379314b8cd6026bd3d64223c15a80ddb 814776 admin optional workbench-defaults_0.19.3.tar.xz
+ 9403ee306302c7b22b0551660ed0bdf1 804996 admin optional workbench-defaults_0.19.3_all.deb
+ ad7e6789b9bc97fa26171cd99a78b6be 10870 admin optional workbench-defaults_0.19.3_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlx9oIgTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumP0HB/0cMo0XwGUfQ0il1YDcj8gA5UFLvcCN
-Eny2KXbsFXTrsk0CmwsSx37yaPc9e6PoT+QGRdHrJtHddaBjUpRNMc0jNzyRaZBE
-9vug0vLi1eaEDEwhaGQ7CP3SMBxLWNB8iZi24oa5fgSpGl5hkVLjXzT4irE1Chp3
-1hLC5zGDIaJ4SDsRhEIYyYLBc5FiWwm8jzMLgaptTT0sjW5Fapt2AQ3oYxQdLEus
-Gp0cCq4cY7QL/kvybPoj4G+f7G5BaDIQ7Qzw40/P2wwnaMRAveAYDYAjbzgfwO+E
-n54cGtrn1+VOAAwfivARgOPSpcUkgWKAoys6mmDtMxPWVAKv5bkLWwsO
-=YAIA
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlx9ovgTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumNqKB/90EcWIc8BE6vLi5m9zeaFedWxQp7ne
+YU6MzMKefheYrWzfDiSgSr3eaLTmiLGZayEao93s+J1yUwRjCODkJeudzQYvl/AC
+RgG2J39fWdwQq/dJU1qvYSQQDb26S2vg7Fpty2Av1ga6/sE8gkw1m9vbfJM4aUpm
+/FfIBJREWs7z3ZB1gwa972Sh4Ux6ERUdkwyY3Op0uKjfilbylLvHxruI/omSjqmK
+WP7vofMoAYBcugVOhjxocTMcO3Ob7CfHYxaTeKoK55soE3+/hA8AmAFErEH2HM+8
+Fxi+FzmMGttkMSEW+b3vhcmobwKKFucp7bN3UhZ/x83VArE+lvWK4YcP
+=ctb5
 -----END PGP SIGNATURE-----
