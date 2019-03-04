@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Mon, 04 Mar 2019 16:45:35 -0500
+Source: workbench-defaults
+Binary: workbench-defaults
+Architecture: source all
+Version: 0.19.3
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ workbench-defaults - Defaults settings for MX Workbench respin
+Changes:
+ workbench-defaults (0.19.3) mx; urgency=medium
+ .
+   * remote xscreensaver
+   * add light-locker
+Checksums-Sha1:
+ a1b27bbad50bdfaa31368e0e508f2e06a7b3a092 1203 workbench-defaults_0.19.3.dsc
+ c998bbda29ee4725fe00798f04adaa9f6e13dffa 814764 workbench-defaults_0.19.3.tar.xz
+ a0b6f8548feb01c53d98899023eeb39683f2cfd7 804938 workbench-defaults_0.19.3_all.deb
+ 172b13879cfed821b32a4e7f516400c3f593f710 10870 workbench-defaults_0.19.3_amd64.buildinfo
+Checksums-Sha256:
+ acd93ce3a443be32e3f599dd9ab5bd184642cc57046c3274d51a3302a08e97ca 1203 workbench-defaults_0.19.3.dsc
+ b06ce0c4be68f350094620cc0215b8bf7f6a3edade7edb5b84a61533da3ee44b 814764 workbench-defaults_0.19.3.tar.xz
+ 794fc30f5a6770ee09b080119a57b01abca64debf93e42aecfc9e29f0f41e1f3 804938 workbench-defaults_0.19.3_all.deb
+ cba997744a279ddd90b0b71fe8ea583d7b68913133b3ed7abe3c99ee64b1df0b 10870 workbench-defaults_0.19.3_amd64.buildinfo
+Files:
+ 12986696a400c779c19770fcbd83c12d 1203 admin optional workbench-defaults_0.19.3.dsc
+ ee20f6dc6a2b4b9279d980e6cf36f46b 814764 admin optional workbench-defaults_0.19.3.tar.xz
+ 2d0ece06316feeb8b02df75da36a5992 804938 admin optional workbench-defaults_0.19.3_all.deb
+ fedabc4b82a56c99b9c810fc6f04e515 10870 admin optional workbench-defaults_0.19.3_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlx9nTgTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumEZsB/4o4WvfeeZn6Q6/BEW6BWe7FcEjor3Z
+UCHbiakFDPwLf3uBzKW+l4nTuZRJnOD/uvBJtIQ+gOG8fn4idO5KEu89pavFauqa
+1Uhf5eoYFeCu53Qx/GpZVDZRtGWdr3dca4q63lcDpgbd9G39o/7t5bbn+0INpWZ7
+9v63XrdnpPHBOqXnaw7teC4sXICAbPyMkEuEhUPN9xRye+fCgYbYzTEby8hpyaor
+CJ978B2Zpu9OxYscYq0dF4KssJJqq+W9EIySYSoLzGWF849mHD+t2TODB3j8DCi9
+R/8oEyvIV76cA4Znp3FVJROk680M7oMakq6XRZNGVBHN4X+ppz9Imj3V
+=InvC
+-----END PGP SIGNATURE-----

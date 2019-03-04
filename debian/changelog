@@ -1,3 +1,10 @@
+workbench-defaults (0.19.3) mx; urgency=medium
+
+  * remote xscreensaver
+  * add light-locker
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 04 Mar 2019 16:45:35 -0500
+
 workbench-defaults (0.18.5) mx; urgency=medium
 
   * add root for linssid
