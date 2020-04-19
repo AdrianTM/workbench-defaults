@@ -1,3 +1,9 @@
+workbench-defaults (0.20.4) mx; urgency=medium
+
+  * add iftop
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 19 Apr 2020 14:12:09 -0400
+
 workbench-defaults (0.19.3) mx; urgency=medium
 
   * remote xscreensaver, cli-installer-antix
