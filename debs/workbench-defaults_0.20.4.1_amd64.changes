@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Thu, 23 Apr 2020 17:19:33 -0400
+Source: workbench-defaults
+Binary: workbench-defaults
+Architecture: source all
+Version: 0.20.4.1
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ workbench-defaults - Defaults settings for MX Workbench respin
+Changes:
+ workbench-defaults (0.20.4.1) mx; urgency=medium
+ .
+   * run custom-toolbox as root
+Checksums-Sha1:
+ 2165239f254e53263a9fdc1303186b8406c89a3e 1195 workbench-defaults_0.20.4.1.dsc
+ 936104c26d86c1d8bade16825a3fc009b6e467b2 814864 workbench-defaults_0.20.4.1.tar.xz
+ ccbe72535f65936b6dc55b8de4a98d616e19afdf 805108 workbench-defaults_0.20.4.1_all.deb
+ e6b127d0b20a48e5022101d72e7a41ea52f2a817 5132 workbench-defaults_0.20.4.1_amd64.buildinfo
+Checksums-Sha256:
+ 358f81146823ba28e2ca207de7f9c3ece5098b159b07fa9d34051825af339294 1195 workbench-defaults_0.20.4.1.dsc
+ b62ace044ae9bd954c2330850466acd682373bacaaccee45ee225ed41b4f8465 814864 workbench-defaults_0.20.4.1.tar.xz
+ 072a2721045d2b5d8ff135625e79e6f89c384ef2589573466ca3dca1be6f621c 805108 workbench-defaults_0.20.4.1_all.deb
+ 0286dc9d7886da9fcca34e358afb47668516d62d42a0f1c650888f6c1f1d8a9e 5132 workbench-defaults_0.20.4.1_amd64.buildinfo
+Files:
+ 7e17d1b5493ae30172c1f4a7c4ab591c 1195 admin optional workbench-defaults_0.20.4.1.dsc
+ 4bd114b6419d330be6b6982e910fd5de 814864 admin optional workbench-defaults_0.20.4.1.tar.xz
+ 9824eeac7672f5a2f089333b60449ffc 805108 admin optional workbench-defaults_0.20.4.1_all.deb
+ d55bd8192f62000bc87bd3abe23944fc 5132 admin optional workbench-defaults_0.20.4.1_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl6iBwoTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumE00B/916e51Lwuq05Rp8EkvgualzpsnrRcZ
+5dzBv9NL/oS8hyZCRjNlMhQOq3CVIqSvdPR04cfSk5h3EIJeI/FPubIVBc4mn5jC
+orV92HIvjtJnl7NQVrv6A7vm8+Jxj8T/4pFpurCkyzh364K3SK+YOF975MqaKBHh
+YshC/3a1p/CC1qO/Ea/KhcZMBytDp70FROcWHBXlvfFLBNPOGVuClAU6ZgzmvvCh
+pHxUP3mc5p/2ORyFdF4N8jE/Ktt7cxgpDmbeXT/sdfF3C16vhs5zP4stVn4GhoLk
+Sk54ROlXgS96HaZUCa1RohbLo8lsw49lKU6t/IQBZYKcTcAjpll+dtbN
+=A1+B
+-----END PGP SIGNATURE-----

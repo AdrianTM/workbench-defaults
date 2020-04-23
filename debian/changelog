@@ -1,3 +1,9 @@
+workbench-defaults (0.20.4.1) mx; urgency=medium
+
+  * run custom-toolbox as root 
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 23 Apr 2020 17:19:33 -0400
+
 workbench-defaults (0.20.4) mx; urgency=medium
 
   * add iftop
